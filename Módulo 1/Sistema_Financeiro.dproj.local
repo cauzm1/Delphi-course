@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/16 16:00:33.000.290,=C:\Users\Caue\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:03:35.000.434,C:\Users\Caue\Documents\Embarcadero\Studio\Projects\frmPrinciapl.pas=C:\Users\Caue\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:03:35.000.434,C:\Users\Caue\Documents\Embarcadero\Studio\Projects\frmPrinciapl.dfm=C:\Users\Caue\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/16 16:04:25.000.638,C:\Users\Caue\Documents\Embarcadero\Studio\Projects\Sistema_Financeiro.dproj=C:\Users\Caue\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/16 16:04:57.000.034,=C:\Users\Caue\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:05:27.000.256,C:\Users\Caue\Documents\Embarcadero\Studio\Projects\frmPrincipal.pas=C:\Users\Caue\Documents\Embarcadero\Studio\Projects\frmPrinciapl.pas</Transaction>
+    <Transaction>2021/08/16 16:05:27.000.256,C:\Users\Caue\Documents\Embarcadero\Studio\Projects\frmPrincipal.dfm=C:\Users\Caue\Documents\Embarcadero\Studio\Projects\frmPrinciapl.dfm</Transaction>
+    <Transaction>2021/08/16 16:06:41.000.383,C:\Users\Caue\Documents\Embarcadero\Studio\Projects\frmCadastroProdutos.pas=C:\Users\Caue\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/16 16:06:41.000.383,C:\Users\Caue\Documents\Embarcadero\Studio\Projects\frmCadastroProdutos.dfm=C:\Users\Caue\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="frmPrincipal.pas"/>
+    <File Path="frmPrincipal.dfm"/>
+    <File Path="frmCadastroProdutos.pas"/>
+    <File Path="frmCadastroProdutos.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
